@@ -5,7 +5,7 @@ This is the Submission of the hackathon By Team WebVedas
 
 
 
-## overview
+## Overview
 The project aims to develop a comprehensive event planning platform that simplifies the process of organizing and managing events for student and college event groups. It focuses on facilitating seamless connections between event organizers and potential sponsors to enhance event funding and support.It many Connect Local level of the students.
 ## Features
 - **User Authentication**: Secure login and registration system for event organizers and sponsors.
