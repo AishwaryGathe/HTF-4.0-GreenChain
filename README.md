@@ -25,9 +25,12 @@ The project aims to develop a comprehensive event planning platform that simplif
 * Student Event Organizers.
 * College Event Groups.
 * Inter-College Event Groups.
-
+  
 ## Solidity
 - Efficient Funding Management: Automate sponsorship agreements for streamlined funding processes.
 - Transparent Resource Allocation: Ensure transparent distribution of funds and resources through tokenization.
 - Secure Transactions: Utilize blockchain integration for secure and tamper-proof financial transactions.
 - Immutable Event Records: Maintain immutable event records for transparent and auditable event planning.
+
+  ## The Server is running on:
+
