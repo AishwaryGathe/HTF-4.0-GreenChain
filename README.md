@@ -19,15 +19,15 @@ The project aims to develop a comprehensive event planning platform that simplif
 - The project aims to create a user-friendly and efficient platform that empowers student and college event groups to plan, manage, and promote events seamlessly. 
 ## Technology used
 - **Frontend**: HTML, CSS, JavaScript , solidity
-
-## Solidity
-- Efficient Funding Management: Automate sponsorship agreements for streamlined funding processes.
-- Transparent Resource Allocation: Ensure transparent distribution of funds and resources through tokenization.
-- Secure Transactions: Utilize blockchain integration for secure and tamper-proof financial transactions.
-- Immutable Event Records: Maintain immutable event records for transparent and auditable event planning.
 - **Backend**: Node js
 - **Database**: Mongo DB
 ## Target users
 * Student Event Organizers.
 * College Event Groups.
 * Inter-College Event Groups.
+
+## Solidity
+- Efficient Funding Management: Automate sponsorship agreements for streamlined funding processes.
+- Transparent Resource Allocation: Ensure transparent distribution of funds and resources through tokenization.
+- Secure Transactions: Utilize blockchain integration for secure and tamper-proof financial transactions.
+- Immutable Event Records: Maintain immutable event records for transparent and auditable event planning.
