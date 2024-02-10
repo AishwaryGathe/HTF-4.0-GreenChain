@@ -1,21 +1,21 @@
-# HTF-4.0-GreenChain
+# HTF-4.0-Event Planning For Connecting Student and College Event Groups Effortless with Sponsors
 This is the Submission of the hackathon By Team WebVedas
-* Overview  <br>
-# The Carbon Footprint Tracking and Offset Platform
-This project presents a platform leveraging greenchain technology to track and offset individual and organizational carbon footprints.It is a software solution designed to address the urgent need for monitoring and reducing carbon emissions. Leveraging the power of blockchain technology, this platform offers a transparent and immutable way to track carbon footprints across various industries and activities.
+
+# Overview
+The project aims to develop a comprehensive event planning platform that simplifies the process of organizing and managing events for student and college event groups. It focuses on facilitating seamless connections between event organizers and potential sponsors to enhance event funding and support.It many Connect Local level of the students.
+
 # Problem Statement
-The growing concern about climate change and environmental sustainability requires individuals and organizations to monitor and reduce their carbon emissions. However, existing solutions for tracking carbon footprints lack transparency, security, and user-friendly interfaces.
+Organizing events at colleges and universities can be challenging, especially for student groups who often lack the resources and connections to secure funding and support from sponsors. Additionally, there is a need for a centralized platform that simplifies the process of event planning and sponsorship management, making it easier for student and college event groups to connect with potential sponsors. 
+The project aims to create a user-friendly and efficient platform that empowers student and college event groups to plan, manage, and promote events seamlessly. By facilitating connections with sponsors and providing tools for transparent and accountable sponsorship management, the platform seeks to enhance the overall experience of organizing and participating in college events.
+
 # Technology
-* Python
-* Solidity
-* Figma
-* Flask
-
-# How Tracebility can be achieved using the carbon footprint Tracking
-* Blockchain provides a decentralized and tamper-resistant ledger for storing carbon footprint data. Each transaction (carbon emission record) is recorded as a block 
-  in the chain, and once added, it cannot be altered or deleted.<br>
-* This ensures the integrity and immutability of the data, enhancing traceability.
-* Assigning unique identifiers to each carbon footprint entry can help trace back the source of emissions. These identifiers can be linked to specific activities, 
-  products, or processes that contribute to carbon emissions, providing a clear trail of accountability.
-
-
+* WordPress
+* Mongo DB
+* Figma  
+# Target Users
+* Student Event Organizers.
+* College Event Groups.
+* Inter-College Event Groups.
+  
+ 
+  
